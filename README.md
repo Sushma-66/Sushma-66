@@ -34,13 +34,5 @@ Here’s what I’m currently working on:
 - Leveraging AWS for scalable analytics solutions  
 - Becoming a **Business Analyst** with strong technical and strategic expertise  
 
----
-
-### 📬 Let's Connect  
-- 💼 [LinkedIn](#)  
-- 📧 [Email](#)  
-- 🌐 [Portfolio / Website](#)  
-
----
 
 ⭐ *“Turning data into decisions — one dashboard at a time.”*
