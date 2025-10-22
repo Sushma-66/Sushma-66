@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there! I'm Sushma 
 
 🎯 **Passionate Business Analyst | Data Enthusiast | Lifelong Learner**
 
