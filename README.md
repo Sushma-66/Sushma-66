@@ -1,11 +1,11 @@
 ## 👋 Hi there! I'm Sushma 
 
-🎯 **Passionate Business Analyst | Data Enthusiast | Lifelong Learner**
+🎯 **Passionate Data Analyst | Data Enthusiast | Lifelong Learner**
 
 ---
 
 ### 💡 About Me  
-I’m a **Business Analyst** with a strong foundation in **Data Analytics**.  
+I’m a **Data Analyst** with a strong foundation in **Data Analytics**.  
 I began my journey as a Data Analyst and now focus on turning data into business insights that drive decisions.
 
 Here’s what I’m currently working on:  
